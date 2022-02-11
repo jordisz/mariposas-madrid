@@ -3,17 +3,17 @@
     <ul class="link-list">
       <li class="list-item">
         <nuxt-link to="/especies">
-          Quines són les espècies de papallones que trobem als parcs de Barcelona?
+          ¿Cuáles son las especies de mariposas que visitan los parques de Madrid?
         </nuxt-link>
       </li>
       <li class="list-item">
-        <nuxt-link to="/preguntes-frequents">
-          Quina informació ens aporta el seguiment de les poblacions de papallones?
+        <nuxt-link to="/preguntas-frecuentes">
+          ¿Qué información nos aporta el seguimiento de las poblaciones de mariposas?
         </nuxt-link>
       </li>
       <li class="list-item">
-        <nuxt-link to="/recomptes">
-          Consulta les dades de l'observatori de papallones urbanes
+        <nuxt-link to="/recuentos">
+          Consulta los datos del observatorio de mariposas urbanas
         </nuxt-link>
       </li>
     </ul>

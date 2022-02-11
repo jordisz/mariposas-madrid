@@ -2,7 +2,7 @@
   <div class="card">
     <div class="card-header">
       <h2 class="nom-comu">
-        {{ info.nomCat }}
+        {{ info.nomCast }}
       </h2>
       <h3><em>{{ info.nomCientific }}</em></h3>
     </div>
@@ -10,13 +10,13 @@
       <img :src="require(`~/assets/butterfly-icons/${info.imatge}`)" alt="">
     </div>
     <p>
-      {{ especie[2] }} {{ especie[2] === 1 ? 'exemplar' : 'exemplars' }} en
+      {{ especie[2] }} {{ especie[2] === 1 ? 'ejemplar' : 'ejemplares' }} en
       <br />
-      {{ especie[1].length }} {{ especie[1].length === 1 ? 'mostreig' : 'mostrejos' }}
+      {{ especie[1].length }} {{ especie[1].length === 1 ? 'muestreo' : 'muestreos' }}
     </p>
     <ButterflyGraph :id="info.id" :observacions="especie[1]" />
     <NuxtLink class="link-sp" :to="`/especies/${info.id}`">
-      Veure fitxa
+      Ver ficha
     </NuxtLink>
   </div>
 </template>

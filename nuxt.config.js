@@ -4,14 +4,14 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Les papallones de Barcelona',
+    title: 'Las mariposas de Madrid',
     htmlAttrs: {
-      lang: 'ca'
+      lang: 'es'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Espècies de papallones diurnes que podem trobar a Barcelona, i dades sobre la seva distribució en els parcs de la ciutat' },
+      { hid: 'description', name: 'description', content: 'Especies de mariposas diurnas que podemos encontrar en Madrid, y datos sobre su distribución en los parques de la ciudad.' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [

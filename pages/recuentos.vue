@@ -1,20 +1,20 @@
 <template>
   <div>
     <div v-if="!isDataReady">
-      <p>Carregant dades...</p>
+      <p>Cargando datos...</p>
     </div>
     <div v-if="isDataReady" class="page-container">
       <h1 class="titol">
-        Recomptes als parcs de Barcelona
+        Recuentos en los parques de Madrid
       </h1>
       <div class="summary">
-        <div>{{ parcName }} ({{ selectedYear }}) - {{ countOnlyDeterminedSpecies }} espècies</div>
+        <div>{{ parcName }} ({{ selectedYear }}) - {{ countOnlyDeterminedSpecies }} especies</div>
       </div>
       <div class="filters-bar">
-        <AppSelector class="selector" id-name="filtraParc" label="Filtra per parc" :list="parcNamesArray" @item-selected="filtraParc" />
-        <AppSelector class="selector" id-name="filtraAny" label="Filtra per any" :list="parcYearsArray" @item-selected="setSelectedYear" />
+        <AppSelector class="selector" id-name="filtraParc" label="Filtra por parque" :list="parcNamesArray" @item-selected="filtraParc" />
+        <AppSelector class="selector" id-name="filtraAny" label="Filtra por año" :list="parcYearsArray" @item-selected="setSelectedYear" />
         <AppRadioButtonGroup id="ordre" v-model="orderCriterion" :checked="orderCriteria[0]" :options="orderCriteria">
-          Ordena per:
+          Ordena por:
         </AppRadioButtonGroup>
       </div>
       <transition-group name="flip-cards" tag="div" class="cards-container">
@@ -49,8 +49,8 @@ export default {
       selectedYear: 'TOTAL HISTÒRIC',
       /** Attributes of the different species */
       EspeciesInfo,
-      orderCriteria: ['freqüència', 'abundància'],
-      orderCriterion: 'freqüència'
+      orderCriteria: ['frecuencia', 'abundancia'],
+      orderCriterion: 'frecuencia'
     }
   },
   computed: {
@@ -138,7 +138,7 @@ export default {
       data.forEach((especie) => {
         especie[2] = especie[1].reduce((prev, curr) => prev + curr.t, 0)
       })
-      if (this.orderCriterion === 'abundància') {
+      if (this.orderCriterion === 'abundancia') {
         return data.sort((a, b) => b[2] - a[2])
       } else {
         const desempat = data.sort((a, b) => b[2] - a[2])

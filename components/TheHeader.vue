@@ -3,45 +3,45 @@
     <div class="top">
       <p class="title">
         <NuxtLink to="/">
-          Les papallones de Barcelona
+          Las mariposas de Madrid
         </NuxtLink>
       </p>
       <ul class="nav">
         <li>
           <NuxtLink to="/especies">
-            Espècies
+            Especies
           </NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/recomptes">
-            Recomptes parcs uBMS
+          <NuxtLink to="/recuentos">
+            Recuentos parques uBMS
           </NuxtLink>
         </li>
         <li>
-          <NuxtLink to="preguntes-frequents">
-            Preguntes freqüents
+          <NuxtLink to="preguntas-frecuentes">
+            Preguntas frecuentes
           </NuxtLink>
         </li>
       </ul>
       <div class="toggler" @click="toggleMenu">
-        <img src="/ic_fluent_navigation_24_filled.png" alt="Obre menú" height="34px">
+        <img src="/ic_fluent_navigation_24_filled.png" alt="Abre menú" height="34px">
       </div>
     </div>
     <div v-if="mobileMenu" class="bottom">
       <ul class="bottom-nav">
         <li class="bottom-item">
           <NuxtLink to="/especies" @click.native="toggleMenu">
-            Espècies
+            Especies
           </NuxtLink>
         </li>
         <li class="bottom-item">
           <NuxtLink to="/recomptes" @click.native="toggleMenu">
-            Recomptes parcs uBMS
+            Recuentos parques uBMS
           </NuxtLink>
         </li>
         <li class="bottom-item">
           <NuxtLink to="/preguntes-frequents" @click.native="toggleMenu">
-            Preguntes freqüents
+            Preguntas frecuentes
           </NuxtLink>
         </li>
       </ul>

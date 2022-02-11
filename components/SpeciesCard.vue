@@ -2,9 +2,9 @@
   <div class="card-container">
     <img :src="require(`~/assets/butterfly-icons/${especie.imatge}`)" alt="" class="especie-thumbnail">
     <div class="card-text">
-      {{ especie.nomCat }}
+      {{ especie.nomCast }}
       <NuxtLink class="link-sp" :to="`/especies/${especie.id}`">
-        Veure fitxa
+        Ver ficha
       </NuxtLink>
     </div>
   </div>
