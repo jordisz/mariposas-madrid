@@ -46,7 +46,7 @@ export default {
       /** Array with observations filtered by selected park (populated when data is ready and also by filtraParc method) */
       byParcData: [],
       /** Current selected year */
-      selectedYear: 'TOTAL HISTÒRIC',
+      selectedYear: 'TOTAL HISTÓRICO',
       /** Attributes of the different species */
       EspeciesInfo,
       orderCriteria: ['frecuencia', 'abundancia'],
@@ -64,7 +64,7 @@ export default {
       this.Parcs.forEach((parc) => {
         arr.push(parc.nom)
       })
-      arr = ['TOTS ELS PARCS', ...arr]
+      arr = ['TODOS LOS PARQUES', ...arr]
       return arr
     },
     /** Obtains a list with all the years with observations in the current park */
@@ -80,12 +80,12 @@ export default {
         })
       })
       yearsArray.sort()
-      yearsArray = ['TOTAL HISTÒRIC', ...yearsArray]
+      yearsArray = ['TOTAL HISTÓRICO', ...yearsArray]
       return yearsArray
     },
     /** Filters current park data by selected year */
     filteredByYear () {
-      if (this.selectedYear === 'TOTAL HISTÒRIC') {
+      if (this.selectedYear === 'TOTAL HISTÓRICO') {
         const sortedData = this.sortData(this.byParcData)
         return sortedData
       }
@@ -122,7 +122,7 @@ export default {
     /** Populates byParcData array with observations in the selected park */
     filtraParc (parc) {
       this.parcName = parc
-      if (parc === 'TOTS ELS PARCS') {
+      if (parc === 'TODOS LOS PARQUES') {
         this.byParcData = this.$store.getters.getTotalData
       } else {
         this.byParcData = this.$store.getters.getParcData(parc).observacions

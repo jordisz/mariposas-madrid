@@ -6,14 +6,14 @@
     <div class="nom-group">
       <div class="nom-left">
         <h2 class="nom-comu">
-          {{ info.nomCat }}
+          {{ info.nomCast }}
         </h2>
         <h3 class="nom-cientific">
           <em>{{ info.nomCientific }}</em>
         </h3>
       </div>
       <ul v-if="info.nomCast !== ''" class="nom-right">
-        <li>Cast: {{ info.nomCast }}</li>
+        <li>Cat: {{ info.nomCat }}</li>
         <li>Eng: {{ info.nomEng }}</li>
       </ul>
     </div>
@@ -27,8 +27,8 @@
       <li v-for="(parc, index) in parcsWithSpecies" :key="index">
         {{ parc.parc }}: {{ parc.recomptes }}
         <span class="lighter">
-          {{ parc.recomptes === 1 ? 'recompte' : 'recomptes' }}
-          ({{ parc.exemplars }} {{ parc.exemplars === 1 ? 'exemplar' : 'exemplars' }})
+          {{ parc.recomptes === 1 ? 'recuento' : 'recuentos' }}
+          ({{ parc.exemplars }} {{ parc.exemplars === 1 ? 'ejemplar' : 'ejemplares' }})
         </span>
       </li>
     </ul>

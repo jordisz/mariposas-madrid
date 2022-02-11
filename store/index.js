@@ -81,9 +81,9 @@ export const actions = {
     }
     fetchData()
       .then((data) => {
-        const dataBarna = Object.entries(data).filter(([key]) => key.includes('BARCELONA'))
+        const dataMadrid = Object.entries(data).filter(([key]) => key.includes('MADRID'))
         parcList.forEach((parc) => {
-          const especies = dataBarna.filter(([key]) => key.includes(parc.clau))
+          const especies = dataMadrid.filter(([key]) => key.includes(parc.clau))
           especies.forEach((arr) => {
             arr[0] = arr[0].replace(/.*\)\s/, '')
             arr[2] = arr[1].muestreos
