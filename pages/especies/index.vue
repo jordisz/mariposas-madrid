@@ -10,6 +10,7 @@
         </li>
       </div>
     </ul>
+    {{ especiesCiutat }}
   </div>
 </template>
 
@@ -26,14 +27,23 @@ export default {
       familiesArray: []
     }
   },
+  computed: {
+    especiesCiutat () {
+      const especiesArray = []
+      this.$store.getters.getTotalData.forEach((item) => {
+        especiesArray.push(item[0])
+      })
+      return especiesArray
+    }
+  },
   mounted () {
     this.filterByFamily()
   },
   methods: {
     filterByFamily () {
-      /** Select all determinated species (id < 900) and sort them by id */
+      /** Select all determinated species (id < 900) observed in the city and sort them by id */
       const especiesSorted = [...Especies]
-        .filter(especie => especie.id < 900)
+        .filter(especie => especie.id < 900 && this.especiesCiutat.includes(especie.nomCientific))
         .sort((a, b) => a.id - b.id)
       const families = ['Papilionidae', 'Hesperiidae', 'Pieridae', 'Nymphalidae', 'Lycaenidae']
       families.forEach((familia) => {
