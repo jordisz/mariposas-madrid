@@ -10,7 +10,6 @@
         </li>
       </div>
     </ul>
-    {{ especiesCiutat }}
   </div>
 </template>
 
