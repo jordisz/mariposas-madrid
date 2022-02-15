@@ -18,7 +18,7 @@
           </NuxtLink>
         </li>
         <li>
-          <NuxtLink to="preguntas-frecuentes">
+          <NuxtLink to="/preguntas-frecuentes">
             Preguntas frecuentes
           </NuxtLink>
         </li>
