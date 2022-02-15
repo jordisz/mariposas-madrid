@@ -1,58 +1,60 @@
 <template>
   <div class="pf-container">
     <h2 class="pregunta">
-      D'on surten les dades d'aquesta web?
+      ¿Qué información nos aporta el recuento de mariposas?
     </h2>
     <p>
-      Els recomptes de papallones corresponen a les observacions dels voluntaris de l'uBMS, tal i com es mostren al
-      <a href="https://ubms.creaf.cat/ca/les-meves-observacions2/">mapa del seu lloc web oficial</a>.
-      Aquesta web on ets ara és creació personal d'un dels voluntaris d'aquest projecte de ciència ciutadana,
-      amb la única intenció de  mostrar la informació del mapa d'una altra manera, potser més fàcil de navegar.<br />
-      La informació sobre cada espècie l'he extreta principalment de la <em>Guia de les papallones diürnes de Catalunya</em>,
-      de Roger Vila, Constantí Stefanescu i José Manuel Sesma. Les miniatures estan elaborades a partir de fotos pròpies i
-      d'altres de Wikimedia Commons. Les fotografies de les fitxes individuals són originals, la majoria fetes als parcs
-      urbans de Barcelona.<br/>
-      La icona de la pàgina és d'<a href="http://www.onlinewebfonts.com/icon">Icon Fonts</a> i té llicència CC.
+      Las mariposas son insectos muy sensibles a los cambios en sus hábitats, y su aparición o desaparición
+      sirve como indicador del estado de conservación de un lugar y de su biodiversidad.<br/>
+      Su presencia es clave dentro de los ecosistemas, como polinizadoras de plantas y también como alimento para sus depredadores.<br/>
+      El hecho de que las diferentes especies de mariposas sean relativamente fáciles de identificar hace que sea más sencillo
+      efectuar su seguimiento que el de otros órdenes de insectos (como hormigas, chinches, escarabajos, pulgones, moscas, abejas...).<br/>
+      Así pues, contando las mariposas de diferentes especies que se ven en un mismo lugar año tras año, podemos hacernos
+      una idea de la evolución de los ecosistemas, y en el caso de los parques urbanos, obtenemos datos que nos pueden ayudar a
+      estudiar y a mejorar la gestión de su biodiversidad.
     </p>
 
     <h2 class="pregunta">
-      Quina informació ens aporta el recompte de papallones?
+      ¿Desde cúando se cuentan mariposas?
     </h2>
     <p>
-      Les papallones són uns insectes molt sensibles als canvis en els seus hàbitats, i la seva aparició o desaparició
-      serveix d'indicador de l'estat de conservació d'un indret i de la seva biodiversitat.
-      La seva presència és clau dins dels ecosistemes, tant com a pol·linitzadores de plantes com per a aliment per als seus depredadors.<br/>
-      El fet que les diferents espècies de papallones siguin relativament fàcils d'identificar fa que sigui més senzill
-      fer-ne seguiment que altres ordres d'insectes (com formigues, xinxes, escarabats, pugons, mosques, abelles...).<br/>
-      Així doncs, comptant les papallones de diferents espècies que es veuen en un mateix lloc any rere any, ens podem fer
-      una idea de com evolucionen els ecosistemes, i en el cas dels parcs urbans, obtenim dades que ens poden ajudar a
-      estudiar i millorar la gestió de la seva biodiversitat.
+      En 1976 se estableció el UKBMS, el plan de seguimiento de mariposas en el Reino Unido.<br/>
+      A partir de esta experiencia, se fueron estableciendo otros proyectos similares, entre ellos el CBMS (Catalan
+      Butterfly Monitoring Scheme), el primero de la región mediterránea, iniciado en 1994. Desde 2008 la asociación
+      ZERYNTHIA mantiene una red de seguimiento en diferentes puntos de la geografía española. El número de países con
+      este tipo de proyectos de seguimiento sigue creciendo, y actualmente ya son una veintena.<br/>
+      En 2018 se inauguró el uBMS (Urban Butterfly Monitoring Scheme, plan de seguimiento de mariposas urbanas), que sigue
+      las poblaciones de estos insectos en Barcelona, Madrid, y, desde 2021, también en Sabadell. Paralelamente también
+      se ha establecido el mBMS, que sigue la población de mariposas en otras ciudades del área metropolitana de Barcelona.
     </p>
 
     <h2 class="pregunta">
-      Des de quan es compten les papallones?
+      ¿Yo también puedo contar mariposas?
     </h2>
     <p>
-      El 1976 es va establir l'UKBMS, el pla de seguiment de papallones al Regne Unit.<br/>
-      A partir d'aquesta experiència, es van anar establint altres projectes similars, entre ells el CBMS (Catalan
-      Butterfly Monitoring Scheme), el primer de la regió mediterrània, iniciat el 1994. El número de països amb plans
-      de seguiment segueix creixent, i actualment ja en son una vintena.<br/>
-      El 2018 es va inaugurar l'uBMS (Urban Butterfly Monitoring Scheme, pla de seguiment de papallones urbanes), que
-      segueix les poblacions d'aquests insectes a Barcelona, Madrid, i des de 2021 també a Sabadell. Paral·lelament també
-      s'ha establert el mBMS, que segueix la població de papallones en altres ciutats de l'àrea metropolitana de Barcelona.
+      ¡Claro que sí! Cualquier persona interesada puede formar parte de estos proyectos de ciencia ciudadana. Si vives en Madrid
+      (o alrededores), puedes <a href="https://ubms.creaf.cat/participa/">inscribirte como voluntario del uBMS.</a><br/>
+      Si quieres participar desde cualquier otro punto de España, puedes contactar con la <a href="https://www.asociacion-zerynthia.org/seguimiento-diurnas">
+        asociación ZERYNTHIA</a>.<br/>
+      Sólo es necesario que tengas disponibilidad para poder visitar tu parque o itinerario una vez a la semana de marzo
+      a septiembre. Ambos proyectos organizan actividades para aprender a hacer los recuentos y a identificar las diferentes
+      especies.
     </p>
 
     <h2 class="pregunta">
-      Jo també puc comptar papallones?
+      ¿De dónde salen los datos de esta web?
     </h2>
     <p>
-      I tant que sí! Qualsevol persona interessada pot formar part d'aquests projectes de ciència ciutadana. Si vius a Barcelona,
-      a Madrid o a Sabadell, <a href="https://ubms.creaf.cat/ca/participa2/">et pots inscriure com a voluntari de l'uBMS</a>.<br/>
-      A l'àrea metropolitana hi tens el <a href="http://mbms.creaf.cat/participa-hi/">mBMS</a>, i a la resta de Catalunya pots
-      col·laborar en els censos en algun dels <a href="https://www.catalanbms.org/ca/participeu/">itineraris del CBMS</a>, o
-      crear-ne un de nou.<br/> Només cal que tinguis la disponibilitat de poder visitar el teu parc o itinerari un cop a la setmana
-      de març a setembre. Tots dos projectes organitzen activitats per a aprendre a fer els recomptes i a identificar les
-      diferents espècies.
+      Los recuentos de mariposas corresponden a las observaciones de los voluntarios del uBMS, tal y como se muestran
+      en el <a href="https://ubms.creaf.cat/mis-observaciones/">mapa de su sitio web oficial</a>.<br/>
+      Esta web donde estás ahora es creación personal de uno de los voluntarios de este proyecto de ciencia ciudadana,
+      con la única intención de mostrar la información del mapa de otra manera, tal vez más fácil de navegar.<br/>
+      La información sobre cada especie la he extraído principalmente de la <em>Guia de les papallones diürnes de Catalunya</em>,
+      de Roger Vila, Constantí Stefanescu i José Manuel Sesma, y de <em>Las mariposas de España peninsular</em>, de
+      Víctor Redondo, Javier Gastón y Juan Carlos Vicente. Las miniaturas están elaboradas a partir de fotos propias y de
+      otras de Wikimedia Commons. Las fotografías de las fichas individuales son originales, la mayoría tomadas en los
+      parques urbanos de Barcelona.<br/>
+      El icono de la página es de <a href="http://www.onlinewebfonts.com/icon">Icon Fonts</a> y tiene licencia CC.
     </p>
   </div>
 </template>
