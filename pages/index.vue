@@ -3,7 +3,7 @@
     <ul class="link-list">
       <li class="list-item">
         <nuxt-link to="/especies">
-          ¿Cuáles son las especies de mariposas que visitan los parques de Madrid?
+          ¿Qué especies de mariposas visitan los parques de Madrid?
         </nuxt-link>
       </li>
       <li class="list-item">
