@@ -99,7 +99,7 @@
         "imatge": "pieris-small.png",
         "imgL": "no-image.jpg",
         "determinada": false,
-        "text1": "En Madrid tenemos tres especies del género <em>Pieris</em>: la <a href='/especies/41'>blanquita de la col</a>, que es la más común, la <a href='/especies/40'>blanca de la col</a>, y la <a href='/especies/44'>blanca verdinervada</a>.<br/>En vuelo són difíciles de diferenciar, ya que tenemos que fijarnos en detalles como las manchas negras del ápice de las alas anteriores.<br/>Por este motivo se anotan muchas observaciones de blancas/blanquitas de las que no se ha podido concretar la especie."
+        "text1": "En Madrid conviven tres especies del género <em>Pieris</em>: la <a href='/especies/41'>blanquita de la col</a>, que es la más común, la <a href='/especies/40'>blanca de la col</a>, y la <a href='/especies/44'>blanca verdinervada</a>.<br/>En vuelo són difíciles de diferenciar, ya que tenemos que fijarnos en detalles como las manchas negras del ápice de las alas anteriores.<br/>Por este motivo se anotan muchas observaciones de blancas/blanquitas de las que no se ha podido concretar la especie."
     },
     {
         "id": 160,
@@ -144,7 +144,7 @@
         "envergadura": 28,
         "SSI": 0.873,
         "TAO": 0.497,
-        "text1": "Mariposa habitual en prados y claros de bosque del sur de Europa y el norte de África.<br/>Vuela desde marzo a octubre en diferentes generaciones.<br/>Sus orugas disponen de una glándula qeu segrega una sustancia azucarada muy atractiva para algunas especies de hormigas, que las transporten a su hormiguero, donde quedan protegidas."
+        "text1": "Mariposa habitual en prados y claros de bosque del sur de Europa y el norte de África.<br/>Vuela desde marzo a octubre en diferentes generaciones.<br/>Sus orugas disponen de una glándula que segrega una sustancia azucarada muy atractiva para algunas especies de hormigas, que las transporten a su hormiguero, donde quedan protegidas."
     },
     {
         "id": 125,
@@ -249,7 +249,22 @@
         "envergadura": 42,
         "SSI": 1.333,
         "TAO": 0.600,
-        "text1": "Papallona comuna, habitual d'ambients agrícoles.<br/>Les seves larves s'alimenten de gran varietat de crucíferes.<br/>Fa dues generacions, una a finals d'hivern i l'altra al maig-juny, que pot ser més o menys abundant en funció de les pluges primaverals."
+        "text1": "Mariposa común, habitual en ambientes agrícolas.<br/>Sus larvas se alimentan de gran variedad de crucíferas.<br/>Tiene dos generaciones, una a finales de invierno y otra en mayo-junio, que puede ser más o menos abundante en función de las lluvias primaverales."
+    },
+    {
+        "id": 117,
+        "nomCientific": "Argynnis pandora",
+        "nomCat": "Pandora",
+        "nomCast": "Nacarada pandora",
+        "nomEng": "Cardinal",
+        "familia": "Nymphalidae",
+        "imatge": "a-pandora-small.png",
+        "imgL": "no-image.jpg",
+        "determinada": true,
+        "envergadura": 74,
+        "SSI": 1.289,
+        "TAO": 0.642,
+        "text1": "Mariposa frecuente en prados secos y arídos.<br/>Vuela en una única generación entre mediados de mayo y finales de septiembre, con un período de menor abundancia durante los meses más cálidos del verano."
     },
     {
         "id": 85,
@@ -264,7 +279,7 @@
         "envergadura": 45,
         "SSI": 0.786,
         "TAO": 0.245,
-        "text1": "Papallona força comuna a Catalunya.<br/>Prefereix prats i zones obertes, per la qual cosa no és molt habitual als parcs barcelonins.<br/>Els adults comencen a volar entre maig i juny. Els mesos més càlids de juliol i agost els passen en estivació, reposant en zones de vegetació espessa, i a finals d'agost tornen a volar, fins la tardor.<br/>Les femelles ponen els ous sobre gran diversitat d'herbes."
+        "text1": "Mariposa ampliamente distribuída por la península.<br/>Prefiere prados y zonas abiertas, aunque se la puede encontrar en cualquier hábitat.<br/>Los adultos inician su vuelo entre mayo y junio. La temporada más calurosa del verano la pasan en estivación, reposando en zonas con vegetación espesa, y a finales de agosto reinician su actividad.<br/>Las hembras realizan sus puestas sobre una gran diversidad de hierbas."
     },
     {
         "id": 172,
@@ -279,7 +294,7 @@
         "envergadura": 30,
         "SSI": 0.755,
         "TAO": 0.062,
-        "text1": "Papallona molt comuna a Catalunya, pròpia d'ambients ombrívols i humits.<br/>Fa tres generacions al llarg de l'any.<br/>Les seves larves es poden nodrir de diferents plantes comunes, com l'esbarzer, l'heura, l'alfals o l'arboç.<br/>És una espècie molt mòbil que s'estableix arreu amb molta facilitat."
+        "text1": "Mariposa muy común en la península, propia de ambientes umbríos y húmedos.<br/>Hace tres generaciones a lo largo del año.<br/>Sus larvas se nutren de diversas plantas comunes, como la zarzamora, la hiedra, la alfalfa o el madroño.<br/>Es una especie muy móbil con gran capacidad de establecerse en nuevos territorios."
     },
     {
         "id": 906,
@@ -291,7 +306,7 @@
         "imatge": "lycaenidae-small.png",
         "imgL": "no-image.jpg",
         "determinada": false,
-        "text1": "Els licènids (<em>Lycaenidae</em>) són una família amb espècies molt comunes, de mida petita i vol ràpid i erràtic.<br/>Això fa que en alguns casos els observadors no les puguin identificar amb certesa.<br/>Als parcs de Barcelona se n'han observat nou espècies diferents (<a href='/especies/199'>blaveta comuna</a>, <a href='/especies/160'>barrinadora del gerani</a>, <a href='/especies/161'>blaveta dels pèsols</a>, <a href='/especies/162'>blaveta estriada</a>, <a href='/especies/172'>blaveta de l'heura</a>, <a href='/especies/180'>moreneta meridional</a>, <a href='/especies/145'>coure comú</a>, <a href='/especies/150'>morada</a>, <a href='/especies/154'>marroneta de l'alzina</a>), i hi ha altres espècies, com la verdeta d'ull blanc o la griseta mediterrània, que per la proximitat amb Collserola hi podrien acabar apareixent."
+        "text1": "Los licénidos (<em>Lycaenidae</em>) son una familia con especies muy comunes, de tamaño pequeño y de vuelo rápido y a menudo errático.<br/>Por este motivo en algunos casos los observadores no las pueden identificar con certeza.<br/>En los parques madrileños se han avistado doce especies diferentes (<a href='/especies/199'>ícaro</a>, <a href='/especies/160'>taladro del geranio</a>, <a href='/especies/161'>estriada canela</a>, <a href='/especies/162'>estriada gris</a>, <a href='/especies/172'>náyade</a>, <a href='/especies/180'>morena común</a>, <a href='/especies/145'>manto común</a>, <a href='/especies/151'>cardenillo</a>, <a href='/especies/163'>violetilla</a>, <a href='/especies/167'>alexis</a>, <a href='/especies/168'>melanops</a> y <a href='/especies/198'>niña tersites</a>)."
     },
     {
         "id": 3,
@@ -306,7 +321,7 @@
         "envergadura": 78,
         "SSI": 0.628,
         "TAO": 0.515,
-        "text1": "La reina de la ruda, macaó o senzillament reina, és una de les papallones més espectaculars de la nostra fauna.<br/>És una espècie molt generalista, capaç d'ocupar hàbitats molt diversos.<br/>Els mascles defensen territoris als cims dels turons, on podem observar-los mantenint espectaculars combats aeris.<br/>Les femelles ponen els ous sobre plantes com el fonoll, la pastanaga i la ruda.<br/>La podem trobar des del febrer fins l'octubre, amb un pic d'abundància cap al juny."
+        "text1": "El macaón es una de las especies más espectaculares de nuestra fauna.<br/>Es una especie muy generalista, capaz de ocupar hábitats muy diversos.<br/>Los machos defienden territorios en las cimas de las colinas, donde podemos observar sus llamativos combates aéreos.<br/>Las hembras realizan sus puestas sobre plantas como el hinojo, la zanahoria y la ruda.<br/>Puede aparecer durante toda la temporada, aunque su pico de abundancia se produce hacia junio."
     },
     {
         "id": 163,
@@ -319,7 +334,7 @@
         "imgL": "no-image.jpg",
         "determinada": true,
         "envergadura": 22,
-        "text1": ""
+        "text1": "Mariposa muy común en el norte de África y sur de la península, asociada a campos de alfalfa y a céspedes con presencia de trébol."
     },
     {
         "id": 60,
@@ -334,7 +349,7 @@
         "envergadura": 42,
         "SSI": 0.460,
         "TAO": 0.119,
-        "text1": "Una de les papallones més comunes de Catalunya.<br/>Molt abundant en ambients oberts i pedregosos com la vessant barcelonina de Collserola, on és fàcil trobar-la en pistes i camins.<br/>Els mascles defensen territoris en llocs prominents i als cims dels turons.<br/>Les larves s'alimenten de diverses gramínies.<br/>La podem veure volar gairebé tot l'any, amb tres pics d'abundància cap al març-abril, al juny-juliol i a finals d'agost-setembre."
+        "text1": "Una de las mariposas más comunes de la península.<br/>Muy abundante en ambientes abiertos y pedregosos.<br/>Los machos defienden territorios en lugares prominentes y en las cimas de las colinas.<br/>Las orugas se alimentan de diversas gramíneas.<br/>La podemos ver volar casi durante todo el año, con tres picos de abundancia hacia marzo-abril, junio-julio y hacia finales de agosto-septiembre."
     },
     {
         "id": 88,
@@ -349,7 +364,7 @@
         "envergadura": 35,
         "SSI": 0.811,
         "TAO": 0.489,
-        "text1": "Espècie mediterrània, pròpia de zones obertes i seques, de manera que només la trobem en parcs propers a Collserola i als turons del Carmel i de la Rovira.<br/>Fa una única generació entre juny i agost, tot i que les femelles poden arribar a viure fins el setembre."
+        "text1": "Propia de prados y bosques secos, estepas y colinas soleadas.<br/>Vuela en una única generación entre junio y agosto, aunque las hembras pueden llegar a vivir hasta septiembre."
     },
     {
         "id": 151,
@@ -364,7 +379,7 @@
         "envergadura": 28,
         "SSI": 1.307,
         "TAO": 0.673,
-        "text1": ""
+        "text1": "Pequeña mariposa típica de prados secos.<br/>Vuela en una sola generación primaveral, entre marzo y mayo.<br/>Sus orugas se alimentan de varias especies de plantas, entre ellas la alfalfa y el trébol, y se asocian con diversos géneros de hormigas."
     },
     {
         "id": 114,
@@ -379,7 +394,7 @@
         "envergadura": 42,
         "SSI": 0.926,
         "TAO": 0.632,
-        "text1": ""
+        "text1": "Especie generalista, que prefiere zonas abiertas y laderas de colinas secas.<br/>Vuela durante toda la temporada, en generaciones sucesivas.<br/>Gusta de zonas soleadas, donde es frecuente observar el comportamiento territorial de los machos."
     },
     {
         "id": 131,
@@ -394,7 +409,7 @@
         "envergadura": 45,
         "SSI": 0.920,
         "TAO": -0.039,
-        "text1": "Espècie típica de boscos de caducifolis i de ribera.<br/>Vola des de febrer-març fins a l'octubre, en tres generacions diferents.<br/>Les seves erugues s'alimenten de plantes com l'ortiga, l'om o el gatell.<br/>Els mascles tenen un comportament territorial."
+        "text1": "Especie típica de bosques de caducifolios y de ribera.<br/>Vuela desde febrero-marzo hasta octubre, en tres generaciones diferentes.<br/>Sus orugas se nutren de plantas como la ortiga, el olmo o el sauce cenizo.<br/>Los machos muestran comportamiento territorial."
     },
     {
         "id": 44,
@@ -409,7 +424,7 @@
         "envergadura": 46,
         "SSI": 1.013,
         "TAO": 0.046,
-        "text1": "Espècie típica d'ambients humits, com boscos de ribera o regadius. Per aquest motiu és molt rara als parcs de Barcelona.<br/>La feromona que produeixen els mascles per a atraure les femelles fa olor de llimona.<br/>Vola tota la temporada, en diferents generacions solapades."
+        "text1": "Especie típica de ambientes húmedos, como bosques de ribera o regadíos.<br/>La feromona que producen los machos para atraer a las hembras desprende un aroma a limón.<br/>Vuela toda la temporada, en diferentes generaciones solapadas."
     },
     {
         "id": 34,
@@ -424,7 +439,7 @@
         "envergadura": 60,
         "SSI": 0.600,
         "TAO": 0.065,
-        "text1": "Papallona amb preferència pels ambients forestals, però amb una gran mobilitat que fa que se'n puguin veure exemplars volant en altres tipus d'hàbitat.<br/>Com en el cas de la <a href='/especies/35'>cleòpatra</a>, fa una única generació que vola a partir del maig, hiberna, i es reprodueix a l'inici de la següent primavera."
+        "text1": "Mariposa con preferencia por los ambientes forestales, pero con una gran mobilidad que hace que puedan verse ejemplares volando en otros tipos de hábitat.<br/>Vuela en una única generación a partir de mayo, hiberna como adulta, y se reproduce a comienzos de la siguiente primavera."
     },
     {
         "id": 37,
@@ -439,7 +454,7 @@
         "envergadura": 42,
         "SSI": 1.061,
         "TAO": 0.692,
-        "text1": ""
+        "text1": "Habitual en prados secos, estepas y eriales, donde crece la hierba de la herradura, su principal planta nutricia.<br/>Vuela durante todo el año, en generaciones sucesivas."
     },
     {
         "id": 167,
@@ -454,7 +469,7 @@
         "envergadura": 30,
         "SSI": 1.093,
         "TAO": 0.498,
-        "text1": ""
+        "text1": "Mariposa que encontramos en zonas abiertas con matorrales bajos en toda la península Ibérica.<br/>Vuela en una única generación primaveral, entre abril y junio.<br/>Sus orugas se alimentan de diversas fabáceas."
     },
     {
         "id": 91,
@@ -469,7 +484,7 @@
         "envergadura": 53,
         "SSI": 0.990,
         "TAO": 0.456,
-        "text1": "Papallona molt comuna a Catalunya, típica de prats i conreus, preferint zones amb herba alta.<br/>Cap a la costa i en ambients humanitzats esdevé més escassa.<br/>Vola entre el maig i el juny."
+        "text1": "Mariposa ampliamente distribuída por la península Ibérica, típica de prados y cultivos, prefiriendo zonas con hierba alta.<br/>En ambientes urbanizados se vuelve más escasa.<br/>Vuela entre mayo y junio."
     },
     {
         "id": 198,
@@ -484,7 +499,7 @@
         "envergadura": 27,
         "SSI": 1.038,
         "TAO": 0.636,
-        "text1": ""
+        "text1": "Especie ampliamente distribuída por la península, prefiere áreas abiertas como prados y claros de bosque.<br/>Vuela desde abril hasta octubre, en generaciones solapadas."
     },
     {
         "id": 102,
@@ -499,7 +514,7 @@
         "envergadura": 54,
         "SSI": 0.888,
         "TAO": 0.246,
-        "text1": "Espècie força comuna, que pot ocupar diferents tipus d'hàbitat, entre els quals les zones obertes i clarianes de bosc.<br/>Acostuma a aturar-se als troncs dels arbres, i els mascles presenten comportament territorial.<br/>Vola en una única generació, des de finals de maig fins la tardor."
+        "text1": "Especie bastante común, que puede ocupar diferentes hábitats, entre ellos prados abiertos y claros de bosque.<br/>Se suele posar sobre los troncos de los árboles. Los machos presentan comportamiento territorial.<br/>Vuela en una única generación, desde finales de mayo hasta otoño."
     },
     {
         "id": 58,
@@ -514,7 +529,7 @@
         "envergadura": 39,
         "SSI": 1.171,
         "TAO": 0.183,
-        "text1": "Papallona lligada a la presència de lledoners.<br/>La podem veure volar ja al febrer, doncs hiberna en forma d'adult.<br/>A la primera meitat de la primavera es reprodueix i pon els ous. Cap al maig-juny emergeixen les noves papallones, que amb l'arribada de la calor van entrant en diapausa fins l'any següent."
+        "text1": "Mariposa ligada a la presencia del almez.<br/>Se puede ver en vuelo ya en febrero, dado que hiberna en forma da adulto.<br/>En la primera mitad de la primavera se reproduce y pone los huevos. Hacia mayo-junio emergen las nuevas mariposas, que con la llegada del calor van entrando en diapausa hasta el siguiente año."
     },
     {
         "id": 168,
@@ -529,7 +544,7 @@
         "envergadura": 27,
         "SSI": 1.139,
         "TAO": 0.589,
-        "text1": ""
+        "text1": "Mariposa que encontramos en estepas y prados con hierba baja.<br/>Vuela en una sola generación, desde marzo hasta finales de mayo."
     },
     {
         "id": 129,
@@ -544,7 +559,7 @@
         "envergadura": 73,
         "SSI": 0.702,
         "TAO": 0.215,
-        "text1": ""
+        "text1": "Especie muy móbil y generalista, asociada a bosques abiertos y a prados con árboles aislados.<br/>Hiberna como adulta, a menudo en edificios abandonados y oscuros. En febrero-marzo sale de la hibernación y se reproduce, dando lugar a una nueva generación que emerge entre mayo y julio que no tarda en entrar en diapausa hasta el año siguiente.<br/>Los machos muestran comportamiento territorial, defendiendo sus territorios alrededor de árboles aislados o en claros de bosque."
     },
     {
         "id": 65,
@@ -559,7 +574,7 @@
         "envergadura": 30,
         "SSI": 0.761,
         "TAO": 0.793,
-        "text1": ""
+        "text1": "Mariposa que vive en prados, matorrales y ambientes ruderales herbosos.<br/>La podemos ver volar de abril a octubre, en tres generaciones sucesivas.<br/>Los machos muestran comportamiento territorial. Las hembras ponen sus huevos sobre gran cantidad de gramíneas."
     },
     {
         "id": 56,
@@ -572,7 +587,7 @@
         "imgL": "no-image.jpg",
         "determinada": true,
         "envergadura": 99,
-        "text1": ""
+        "text1": "Famosa migradora, que en la península vive en zonas costeras de Andalucía.<br/>Su presencia esporádica en la ciudad se explica por la costumbre de liberar ejemplares en celebraciones nupciales."
     },
     {
         "id": 96,
@@ -587,7 +602,7 @@
         "envergadura": 70,
         "SSI": 0.860,
         "TAO": 0.432,
-        "text1": "Espècie força comuna a Catalunya, amb preferència per zones herboses amb presència d'arbres i arbusts.<br/>Les seves larves s'alimenten de diverses herbes.<br/>La podem veure volar a partir de començaments de juny fins a mitjans de juliol, moment en el que fa una pausa en la seva activitat fins a mitjans d'agost, quan torna a volar fins a l'octubre.<br/>Els mascles mostren un comportament territorial."
+        "text1": "Especie muy común en la península, excepto en las zonas más áridas. Prefiere zonas herbosas con presencia de árboles y matorrales.<br/>Sus larvas se alimentan de diversas gramíneas.<br/>Se puede ver en vuelo des de junio a mediados de julio, momento en el que detiene su actividad hasta mediados de agosto, cuando vuelve a volar hasta octubre.<br/>Los machos muestran comportamiento territorial."
     },
     {
         "id": 47,
@@ -602,7 +617,7 @@
         "envergadura": 40,
         "SSI": 0.857,
         "TAO": -0.020,
-        "text1": "Espècie pròpia d'ambients humits, tot i que alguns exemplars poden arribar a aparèixer als parcs de Barcelona.<br/>Fa una sola generació, que vola de març a abril."
+        "text1": "Especie propia de ambientes húmedos como bosques de ribera.<br/>Vuela en una sola generación, desde marzo a abril."
     },
     {
         "id": 39,
@@ -617,7 +632,7 @@
         "envergadura": 62,
         "SSI": 1.051,
         "TAO": 0.713,
-        "text1": ""
+        "text1": "Propia de zonas abiertas con arbustos.<br/>Vuela entre abril y junio en una única generación.</br>Las hembras ponen sus huevos sobre las hojas del endrino y del majuelo."
     },
     {
         "id": 25,
@@ -632,7 +647,7 @@
         "envergadura": 27,
         "SSI": 1.034,
         "TAO": 0.634,
-        "text1": ""
+        "text1": "Mariposa frecuente en prados, caminos forestales y laderas de bosque.<br/>Vuela desde junio a comienzos de agosto en una única generación.<br/>Realiza sus puestas sobre gran diversidad de gramíneas."
     },
     {
         "id": 35,
@@ -975,21 +990,6 @@
         "envergadura": 31,
         "SSI": 1.055,
         "TAO": 0.757,
-        "text1": ""
-    },
-    {
-        "id": 117,
-        "nomCientific": "Argynnis pandora",
-        "nomCat": "Pandora",
-        "nomCast": "Nacarada pandora",
-        "nomEng": "Cardinal",
-        "familia": "Nymphalidae",
-        "imatge": "a-pandora-small.png",
-        "imgL": "no-image.jpg",
-        "determinada": true,
-        "envergadura": 74,
-        "SSI": 1.289,
-        "TAO": 0.642,
         "text1": ""
     }
 ]
