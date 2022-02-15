@@ -35,12 +35,12 @@
           </NuxtLink>
         </li>
         <li class="bottom-item">
-          <NuxtLink to="/recomptes" @click.native="toggleMenu">
+          <NuxtLink to="/recuentos" @click.native="toggleMenu">
             Recuentos parques uBMS
           </NuxtLink>
         </li>
         <li class="bottom-item">
-          <NuxtLink to="/preguntes-frequents" @click.native="toggleMenu">
+          <NuxtLink to="/preguntas-frecuentes" @click.native="toggleMenu">
             Preguntas frecuentes
           </NuxtLink>
         </li>
