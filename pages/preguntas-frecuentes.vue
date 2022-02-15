@@ -52,8 +52,10 @@
       La información sobre cada especie la he extraído principalmente de la <em>Guia de les papallones diürnes de Catalunya</em>,
       de Roger Vila, Constantí Stefanescu i José Manuel Sesma, y de <em>Las mariposas de España peninsular</em>, de
       Víctor Redondo, Javier Gastón y Juan Carlos Vicente. Las miniaturas están elaboradas a partir de fotos propias y de
-      otras de Wikimedia Commons. Las fotografías de las fichas individuales son originales, la mayoría tomadas en los
-      parques urbanos de Barcelona.<br/>
+      otras de Wikimedia Commons.<br/>
+      En las fotografías de las fichas de cada especie se indica su autoría cuando se usan bajo licencia Creative Commons,
+      DP en caso de fotos de dominio público, y, cuando no hay ningún texto, se trata de originales mías, la mayoría tomadas
+      en los parques urbanos de Barcelona.<br/>
       El icono de la página es de <a href="http://www.onlinewebfonts.com/icon">Icon Fonts</a> y tiene licencia CC.
     </p>
   </div>
