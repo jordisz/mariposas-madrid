@@ -11,7 +11,7 @@
         "determinada": true,
         "envergadura": 44,
         "SSI": 0.707,
-        "TAO": 0.280,
+        "TAO": 0.28,
         "text1": "La mariposa más abundante en nuestra ciudad.<br/>Sus larvas se alimentan de brasicáceas como las coles, el nabo o el rábano, por lo que es una especie muy habitual en ambientes humanizados.<br/>Originaria de Europa, Asia y el norte de África, su relación con los cultivos humanos la ha hecho llegar también a América y Australia, donde es una plaga.<br/>La podemos ver a lo largo de todo el año, en diversas generaciones que se van solapando."
     },
     {
@@ -85,7 +85,7 @@
         "imgL": "i-feisthamelii-1.jpg",
         "determinada": true,
         "envergadura": 70,
-        "SSI": 0.650,
+        "SSI": 0.65,
         "TAO": 0.437,
         "text1": "Especie muy común, vinculada a árboles y arbustos como el cerezo, el melocotonero, el ciruelo, o el endrino.<br/>Los machos presentan comportamiento territorial, defendiendo su espacio en las cimas de las colinas.<br/>Los primeros ejemplares se pueden ver volando ya en febrero, aunque las generaciones más abundantes son las de verano."
     },
@@ -248,7 +248,7 @@
         "determinada": true,
         "envergadura": 42,
         "SSI": 1.333,
-        "TAO": 0.600,
+        "TAO": 0.6,
         "text1": "Mariposa común, habitual en ambientes agrícolas.<br/>Sus larvas se alimentan de gran variedad de crucíferas.<br/>Tiene dos generaciones, una a finales de invierno y otra en mayo-junio, que puede ser más o menos abundante en función de las lluvias primaverales."
     },
     {
@@ -347,7 +347,7 @@
         "imgL": "l-megera-1.jpg",
         "determinada": true,
         "envergadura": 42,
-        "SSI": 0.460,
+        "SSI": 0.46,
         "TAO": 0.119,
         "text1": "Una de las mariposas más comunes de la península.<br/>Muy abundante en ambientes abiertos y pedregosos.<br/>Los machos defienden territorios en lugares prominentes y en las cimas de las colinas.<br/>Las orugas se alimentan de diversas gramíneas.<br/>La podemos ver volar casi durante todo el año, con tres picos de abundancia hacia marzo-abril, junio-julio y hacia finales de agosto-septiembre."
     },
@@ -407,7 +407,7 @@
         "imgL": "p-c-album-1.jpg",
         "determinada": true,
         "envergadura": 45,
-        "SSI": 0.920,
+        "SSI": 0.92,
         "TAO": -0.039,
         "text1": "Especie típica de bosques de caducifolios y de ribera.<br/>Vuela desde febrero-marzo hasta octubre, en tres generaciones diferentes.<br/>Sus orugas se nutren de plantas como la ortiga, el olmo o el sauce cenizo.<br/>Los machos muestran comportamiento territorial."
     },
@@ -437,7 +437,7 @@
         "imgL": "g-rhamni-1.jpg",
         "determinada": true,
         "envergadura": 60,
-        "SSI": 0.600,
+        "SSI": 0.6,
         "TAO": 0.065,
         "text1": "Mariposa con preferencia por los ambientes forestales, pero con una gran mobilidad que hace que puedan verse ejemplares volando en otros tipos de hábitat.<br/>Vuela en una única generación a partir de mayo, hiberna como adulta, y se reproduce a comienzos de la siguiente primavera."
     },
@@ -482,7 +482,7 @@
         "imgL": "m-lachesis-1.jpg",
         "determinada": true,
         "envergadura": 53,
-        "SSI": 0.990,
+        "SSI": 0.99,
         "TAO": 0.456,
         "text1": "Mariposa ampliamente distribuída por la península Ibérica, típica de prados y cultivos, prefiriendo zonas con hierba alta.<br/>En ambientes urbanizados se vuelve más escasa.<br/>Vuela entre mayo y junio."
     },
@@ -600,7 +600,7 @@
         "imgL": "b-circe-1.jpg",
         "determinada": true,
         "envergadura": 70,
-        "SSI": 0.860,
+        "SSI": 0.86,
         "TAO": 0.432,
         "text1": "Especie muy común en la península, excepto en las zonas más áridas. Prefiere zonas herbosas con presencia de árboles y matorrales.<br/>Sus larvas se alimentan de diversas gramíneas.<br/>Se puede ver en vuelo des de junio a mediados de julio, momento en el que detiene su actividad hasta mediados de agosto, cuando vuelve a volar hasta octubre.<br/>Los machos muestran comportamiento territorial."
     },
@@ -616,7 +616,7 @@
         "determinada": true,
         "envergadura": 40,
         "SSI": 0.857,
-        "TAO": -0.020,
+        "TAO": -0.02,
         "text1": "Especie propia de ambientes húmedos como bosques de ribera.<br/>Vuela en una sola generación, desde marzo a abril."
     },
     {
@@ -703,7 +703,7 @@
         "determinada": true,
         "envergadura": 36,
         "SSI": 0.771,
-        "TAO": -0.010,
+        "TAO": -0.01,
         "text1": "Espècie endèmica de la Mediterrània occidental, força comuna a Catalunya, especialment al litoral i prelitoral.<br/>Prefereix zones herboses a prop de boscos, però apareix també en altres ambients.<br/>A Barcelona la podem trobar a l'abril i al maig als parcs més propers a Collserola i als turons de la Rovira i del Carmel."
     },
     {
@@ -887,7 +887,7 @@
         "determinada": true,
         "envergadura": 30,
         "SSI": 0.707,
-        "TAO": 0.280,
+        "TAO": 0.28,
         "text1": "Petita papallona que acostumem a trobar en zones humides i boscoses.<br/>Vola en dues generacions, una entre finals d'abril i juny, i una altra entre agost i octubre.<br/>Els mascles tenen comportament territorial, i acostumen a posar-se sobre branques d'arbustos o herbes altes que defensen davant la presència d'altres mascles."
     },
     {
@@ -985,6 +985,21 @@
         "nomEng": "Adonis Blue",
         "familia": "Lycaenidae",
         "imatge": "lycaenidae-small.png",
+        "imgL": "no-image.jpg",
+        "determinada": true,
+        "envergadura": 31,
+        "SSI": 1.055,
+        "TAO": 0.757,
+        "text1": ""
+    },
+    {
+        "id": 49,
+        "nomCientific": "Zegris eupheme",
+        "nomCat": "Aurora dels guarets",
+        "nomCast": "Zegris",
+        "nomEng": "Sooty Orange Tip",
+        "familia": "Pieridae",
+        "imatge": "mistery.png",
         "imgL": "no-image.jpg",
         "determinada": true,
         "envergadura": 31,
