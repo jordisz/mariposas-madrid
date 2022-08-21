@@ -1002,9 +1002,24 @@
         "imatge": "mistery.png",
         "imgL": "no-image.jpg",
         "determinada": true,
-        "envergadura": 31,
-        "SSI": 1.055,
-        "TAO": 0.757,
+        "envergadura": 46,
+        "SSI": "N.D.",
+        "TAO": "N.D.",
+        "text1": ""
+    },
+    {
+        "id": 87,
+        "nomCientific": "Hyponephele lupina",
+        "nomCat": "Bruna de secà",
+        "nomCast": "Lobo anillado",
+        "nomEng": "Oriental Meadow Brown",
+        "familia": "Nymphalidae",
+        "imatge": "mistery.png",
+        "imgL": "no-image.jpg",
+        "determinada": true,
+        "envergadura": 38,
+        "SSI": "N.D.",
+        "TAO": "N.D.",
         "text1": ""
     }
 ]
