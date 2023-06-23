@@ -677,7 +677,7 @@
         "envergadura": 72,
         "SSI": 0.958,
         "TAO": 0.213,
-        "text1": "Espectacular papallona pròpia de boscos i màquies mediterranis.<br/>Vola en dues generacions, la primera al maig-juny i la segona cap a l'agost-octubre.<br/>Els mascles defensen territoris al capdamunt de turons.<br/>Les seves larves s'alimenten de les fulles d'arboç, mentre que els adults no acostumen a libar nèctar de les flors, sinò que es nodreixen de fruita madura, exsudats d'arbres i excrements de mamífers."
+        "text1": "Espectacular mariposa habitual en bosques y máquias mediterráneas.<br/>Vuela en dos generaciones, la primera en mayo-junio y la segunda sobre agosto-octubre.<br/>Los machos defienden territorios en las cimas de colinas.<br/>Sus larvas se alimentan de las hojas del madroño, mientras que los adultos no acostumbran a libar néctar de las flores, prefiriendo alimentarse de fruta madura, exsudados de árboles y excrementos de mamíferos."
     },
     {
         "id": 910,
@@ -690,6 +690,18 @@
         "imgL": "no-image.jpg",
         "determinada": false,
         "text1": "Degut a la facilitat de confusió entre les femelles de la <a href='/especies/35'>cleòpatra</a> i de la <a href='/especies/34'>llimonera</a>, qualsevol femella d'aquestes espècies queda anotada de forma genèrica com a <em>Gonepteryx sp.</em>"
+    },
+    {
+        "id": 915,
+        "nomCientific": "Hipparchia sp.",
+        "nomCat": "Faunes",
+        "nomCast": "Sátiros",
+        "nomEng": "",
+        "familia": "Nymphalidae",
+        "imatge": "satyridae-small.png",
+        "imgL": "no-image.jpg",
+        "determinada": false,
+        "text1": "En la zona de Madrid podemos encontrar varias especies del género Hipparchia. De entre ellas, la más vista en los parques de la ciudad es, por ahora, el sátiro rubio (Hipparchia semele)."
     },
     {
         "id": 90,
@@ -795,13 +807,13 @@
         "id": 912,
         "nomCientific": "Satyridae",
         "nomCat": "Satirins",
-        "nomCast": "",
+        "nomCast": "Satirinos",
         "nomEng": "",
         "familia": "Nymphalidae",
         "imatge": "satyridae-small.png",
         "imgL": "no-image.jpg",
         "determinada": false,
-        "text1": "Els satirins o satírids són una subfamília dels nimfàlids que comprèn un gran nombre d'espècies.<br/>A Barcelona hi trobem la <a href='/especies/60'>margenera comuna</a>, la <a href='/especies/63'>bruna de bosc</a>, la <a href='/especies/85'>bruna de prat</a>, la <a href='/especies/88'>saltabardisses de solell</a>, la <a href='/especies/90'>saltabardisses cintada</a>, l'<a href='/especies/91'>escac ibèric</a>, la <a href='/especies/96'>bruixa</a>, el <a href='/especies/100'>faune bru</a>, el <a href='/especies/101'>faune de ziga-zaga</a> i el <a href='/especies/102'>faune lleonat</a>.<br/>La majoria d'aquestes espècies són de mides i colors similars, la qual cosa en pot dificultar la determinació."
+        "text1": "Los satirinos son una subfamilia de los ninfálidos que incluye un gran número de especies.<br/>La mayoría de ellas son de colores y tamaños similares, motivo por el que a veces su determinación es complicada."
     },
     {
         "id": 13,
