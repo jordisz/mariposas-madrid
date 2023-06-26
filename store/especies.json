@@ -222,6 +222,21 @@
         "text1": "Especie común en zonas ruderales y parques urbanos donde crece su planta nutrícia principal, la malva.</br>Su pequeño tamaño hace que a menudo pase desapercibida, pero no es difícil encontrar algún ejemplar poniendo atención en zonas donde crece la malva.</br>La podemos ver volar des de marzo hasta octubre, en generaciones sucesivas."
     },
     {
+        "id": 149,
+        "nomCientific": "Laesopis roboris",
+        "nomCat": "Morada del freixe",
+        "nomCast": "Moradilla del fresno",
+        "nomEng": "Spanish purple hairstreak",
+        "familia": "Lycaenidae",
+        "imatge": "lycaenidae-small.png",
+        "imgL": "no-image.jpg",
+        "determinada": true,
+        "envergadura": 14,
+        "SSI": 1.258,
+        "TAO": 0.218,
+        "text1": "Especie forestal, asociada a bosques claros próximos a cursos de agua.</br>Sus hábitos arborícolas hacen que a menudo pase desapercibida.</br>La podemos ver volar desde mediados de mayo a mediados de julio."
+    },
+    {
         "id": 162,
         "nomCientific": "Leptotes pirithous",
         "nomCat": "Blaveta estriada",
