@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/recuentos", {data:[{}],fetch:{},mutations:[["changeFetchedStatus",false]]});
